@@ -7,25 +7,15 @@
 <a href="https://github.com/Symo-Stuart" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
 I’m interested in Data/Business Analytics, R-studio, Python, SQL, Tableau, Power BI, and Excel.
 
 Still a work in progress, teachable, and ready to learn as much as I can. I have educational & project experience in data and business analysis, leveraging data to create insights, forecasts, valuations, and visuals.
 
-Just so that you know, I prefer “Stuart” among all my names. It is pronounced as “Stoo-urt”😉.
+Just so you know, I prefer “Stuart” among all my names. It is pronounced as “Stoo-urt”😉.
 
 All right, let’s get into it👌🏾
-
-🎯 GOALS
-* Long-term;
- - To be a senior Business Analyst in a managerial position. This gives me an opportunity to offer a helping hand, and pass on knowledge and experience to the coming generation!
-
-* Short-term;
- - To be a valuable member of the company/organization by putting my skills & talents to purposeful use!
 
 📚 EDUCATION
 - Master of Science in Applied Business Analytics.
@@ -35,32 +25,7 @@ All right, let’s get into it👌🏾
 - Developed an E-Book on Sustainable Value Creation
 - Pioneer board member of The International Students’ Club at William Paterson University
 
-📮 INTERESTED IN TOPICS
-- Business/Data Analytics
-- Sustainable Value Creation
-- Diversity, Equity & Inclusion.
-- Accessible & Affordable Education.
-- Helping hands!
-
-There you go, thanks for making it this far. I appreciate it!👏🏾  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
@@ -68,11 +33,7 @@ There you go, thanks for making it this far. I appreciate it!👏🏾
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
-</div>  
-
-<br/>  
-
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>   
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -85,20 +46,7 @@ There you go, thanks for making it this far. I appreciate it!👏🏾
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
+<br/>
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
