@@ -9,13 +9,9 @@
 </a>  
 
 ### Glad to see you here!  
-I’m interested in Data/Business Analytics, R-studio, Python, SQL, Tableau, Power BI, and Excel.
-
-Still a work in progress, teachable, and ready to learn as much as I can. I have educational & project experience in data and business analysis, leveraging data to create insights, forecasts, valuations, and visuals.
+I’m interested in Data/Business Analytics, R-studio, Python, SQL, Tableau, Power BI, and Excel. Still a work in progress, teachable, and ready to learn as much as I can. I have educational & project experience in data and business analysis, leveraging data to create insights, forecasts, valuations, and visuals.
 
 Just so you know, I prefer “Stuart” among all my names. It is pronounced as “Stoo-urt”😉.
-
-All right, let’s get into it👌🏾
 
 📚 EDUCATION
 - Master of Science in Applied Business Analytics.
@@ -31,15 +27,4 @@ All right, let’s get into it👌🏾
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>   
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Symo-Stuart&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symo-Stuart&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>
