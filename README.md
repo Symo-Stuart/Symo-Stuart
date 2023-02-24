@@ -1,4 +1,4 @@
-### Hi, I'm Simon Stuart 👋
+## Hi, I'm Simon Stuart 👋
 
 <img src="https://github.com/Symo-Stuart/Symo-Stuart/blob/main/Simon%20Stuart%20Buhooro%20Github.png">
 <!--
