@@ -25,8 +25,6 @@ All right, let’s get into it👌🏾
 - Developed an E-Book on Sustainable Value Creation
 - Pioneer board member of The International Students’ Club at William Paterson University
 
-<br/>
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
@@ -44,23 +42,4 @@ All right, let’s get into it👌🏾
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symo-Stuart&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<!--
-**Symo-Stuart/Symo-Stuart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td></tr></table>
